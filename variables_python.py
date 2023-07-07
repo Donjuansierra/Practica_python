@@ -24,7 +24,7 @@ Lo anterior debido a que python por debajo se encarga de asignar más o menos me
 n = int(input ('ingresa la cantidad de primeros numeros pares a sumar: '))
 
 suma_pares = n*(n+1)
-print(suma_pares)
+
 
 # iv
 
